@@ -26,7 +26,7 @@
     "date-fns": "2.30.0",
     "get-youtube-id": "1.0.1",
     "intl-segmenter-polyfill": "0.4.4",
-    "next": "13.4.19",
+    "next": "15.5.21",
     "next-google-fonts": "2.2.0",
     "next-sanity": "5.4.6",
     "react": "18.2.0",
